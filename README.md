@@ -13,7 +13,7 @@
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="60%" align="right" alt="Berserk" src="https://i.vgy.me/wiVrLB.png" />
+<img width="55%" align="right" alt="Berserk" src="https://i.vgy.me/wiVrLB.png" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9baz0e41fu8kxhe62jzncins6&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9baz0e41fu8kxhe62jzncins6&redirect=true)
 
