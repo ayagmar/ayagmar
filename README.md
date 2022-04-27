@@ -52,7 +52,7 @@
 
 	
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Agmaromatic&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Agmaromatic&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayagmar&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagmar&langs_count=5&theme=tokyonight)]()
 
 
