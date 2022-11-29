@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Abdeslam Yassine Agmar, a Full stack Java/JEE Developer From Morocco .
+## Hi, I'm Abdeslam Yassine Agmar, a Java/JEE Developer From Morocco .
 
 
 
