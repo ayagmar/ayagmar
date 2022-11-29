@@ -17,7 +17,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9baz0e41fu8kxhe62jzncins6&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9baz0e41fu8kxhe62jzncins6&redirect=true)
 
-- SQLI Rabat Java Developer Intern for the year of 2022
+- Java Developer For SQLI, working on NESPRESSO middleware 
 - 👨🏽‍💻 Recently finished [Nejtrans App](https://github.com/Agmaromatic/nejtrans-BACK)
 - 🌱 I’m currently learning DevOps,Kubernetes and Microservices. 
 - 💬 Ask me about anything, I am happy to help;
@@ -27,8 +27,8 @@
 <p>
 
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+	<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 	
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
