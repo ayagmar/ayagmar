@@ -1,6 +1,4 @@
-<!-- Your title -->
-## Hi, I'm Abdeslam Yassine Agmar, a Java/JEE Developer From Morocco .
-
+## Hello there! I'm Abdeslam Yassine Agmar, a backend Software Engineer from Morocco 🇲🇦.
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ayagmar)
@@ -17,42 +15,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9baz0e41fu8kxhe62jzncins6&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9baz0e41fu8kxhe62jzncins6&redirect=true)
 
-- Java Developer For SQLI, working on NESPRESSO middleware 
-- 👨🏽‍💻 Recently finished [Nejtrans App](https://github.com/Agmaromatic/nejtrans-BACK)
-- 🌱 I’m currently learning DevOps,Kubernetes and Microservices. 
-- 💬 Ask me about anything, I am happy to help;
-
-**Languages and Tools:** 
-
-<p>
 
 
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-	<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-	
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-
-
-
-
-
-
-	
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayagmar&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagmar&langs_count=5&theme=tokyonight)]()
-
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayagmar&count_private=true&theme=tokyonight&showicons=true)  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagmar&langs_count=5&theme=tokyonight)]()
