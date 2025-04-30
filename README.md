@@ -1,19 +1,50 @@
-## Hello there! I'm Abdeslam Yassine Agmar, a backend Software Engineer from Morocco 🇲🇦.
 
+<h1 align="center">Hi, I'm Abdeslam 👋</h1>
+ 
+<p align="center">
+  Backend engineer building clean, reliable Java applications.<br>
+  Passionate about software design, developer tooling, and open source.
+</p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ayagmar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayagmar/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://instagram.com/abdeslamagmar/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abdeslamagmar@gmail.com)
+---
 
+🎯 Exploring Quarkus and the modern JVM ecosystem  
+📚 Certified: Java SE 17 & Java EE 7 (OCP)
 
-&nbsp;
+---
 
+### 📊 GitHub Stats
 
-<img width="55%" align="right" alt="Guts" src="https://i.vgy.me/wiVrLB.png" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayagmar&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayagmar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayagmar&theme=tokyonight" width="600" />
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9baz0e41fu8kxhe62jzncins6&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=9baz0e41fu8kxhe62jzncins6&redirect=true)
+---
 
+### 🧠 Tech Focus
 
+- Domain-Driven Design
+- Clean Code & Refactoring
+- CLI tooling & automation
+---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayagmar&count_private=true&theme=tokyonight&showicons=true)  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagmar&langs_count=5&theme=tokyonight)]()
+### 🌐 Connect With Me
+Feel free to reach out for an open source contribution request or help/questions
+<p align="center">
+  <a href="https://linkedin.com/in/ayagmar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+    <a href="https://www.last.fm/user/min7_">
+    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" />
+  </a>
+</p>
+
+### 🎧 Currently Listening On Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=9baz0e41fu8kxhe62jzncins6&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9baz0e41fu8kxhe62jzncins6&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="spotify profile" />
+  </a>
+</p>
