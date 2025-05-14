@@ -3,7 +3,7 @@
 Backend engineer building clean, reliable Java applications.
 Passionate about software design, developer tooling, and open source.
 
-*   Exploring Quarkus and the modern JVM ecosystem
+*   Exploring Java frameworks and the modern JVM ecosystem
 *   OCP Certified: Java SE 17 & Java EE 7
 
 ### Connect With Me
