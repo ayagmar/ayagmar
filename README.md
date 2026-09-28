@@ -4,8 +4,10 @@ Software Engineer at [Theodo Group](https://github.com/theodo-group)
 Java · Backend · APIs · Software craftsmanship · AI Tooling
 
 ## Certifications
+- [Oracle Certified Professional: Java SE 25 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0AA77B8F454C8701C2F8DB071FE30142410E3EC7CF89C5631F04A26D95E9A0AA)
 - [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=686A2CB5A9B83BE939EE54C5E7E104DA1FBFE1B010B0C390642853E1F64E60D0)
 - [Oracle Certified Professional: Java EE 7 Application Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A95496BBDADAF638136F35118D71F1495EF7EA7515C27CD6A3209704C8A7EB96)
+- [Claude Certified Developer - Foundations](https://www.credly.com/badges/5d45dde1-4c1c-422d-8590-c0b2b1da9607/)
 
 
 ## Connect
