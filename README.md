@@ -13,3 +13,4 @@ Java · Backend · APIs · Software craftsmanship · AI Tooling
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayagmar)
 [![Last.fm](https://img.shields.io/badge/Last.fm-D51007?logo=lastdotfm&logoColor=white)](https://www.last.fm/user/min7_)
+[![committers.top badge](https://user-badge.committers.top/morocco/USERNAME.svg)](https://user-badge.committers.top/morocco/ayagmar)
